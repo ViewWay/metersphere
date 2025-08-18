@@ -2,7 +2,7 @@ name: BUG 提交
 description: 提交产品缺陷帮助我们更好的改进
 title: "[BUG]"
 labels: "类型: 缺陷"
-assignees: "13290445582"
+assignees: "youliyuan-fit2cloud"
 body:
   - type: markdown
     id: contacts_title
