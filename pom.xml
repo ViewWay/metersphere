@@ -6,7 +6,7 @@
     <parent>
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-starter-parent</artifactId>
-        <version>3.5.6</version>
+        <version>3.5.7</version>
         <relativePath/>
     </parent>
 
@@ -88,7 +88,7 @@
         <swagger-core-jakarta.revision>2.2.20</swagger-core-jakarta.revision>
         <velocity.revision>2.3</velocity.revision>
 
-        <spring-ai.version>1.0.0</spring-ai.version>
+        <spring-ai.version>1.0.3</spring-ai.version>
         <ansj_seg.version>5.1.6</ansj_seg.version>
         <flex-mark.version>0.64.0</flex-mark.version>
     </properties>
